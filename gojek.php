@@ -79,7 +79,7 @@ if ($register == false)
             {
             echo "\e[92m[+] ".$claim . "\n";
             sleep(3);
-            echo "\e[93m[!] Trying to redeem Voucher : COBAINGOJEK !\n";
+            echo "\e[93m[!] Trying to redeem Voucher : GOJEKINAJA !\n";
             sleep(3);
             goto ride;
             }
